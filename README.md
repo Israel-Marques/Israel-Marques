@@ -4,7 +4,7 @@
 
 
 - 🔭 Estou a pocura de uma oportunidade para atuar como dev Jr,
-   preferencialmente front, mas  também aceito back ou Full-stack.
+   preferencialmente front, mas  também aceito back ou Full-stack, pois meu foco é aprender coisas novas e me desenvolver.
 - 🌱 Atualmenete estou  participando de um Bootcamp de desenvolvimento web full-stack  na resilia educação, e me aprofundando em  front-end pela Alura .
 
   
