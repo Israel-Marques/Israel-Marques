@@ -3,9 +3,9 @@
 
 
 
-- 🔭 Estou a pocura de uma oportunidade para atuar como dev Jr,
+- 🔭 Estou a pocura de uma oportunidade para atuar como dev Jr, ou estagiário
    preferencialmente front, mas  também aceito back ou Full-stack, pois meu foco é aprender coisas novas e me desenvolver.
-- 🌱 Atualmenete estou  participando de um Bootcamp de desenvolvimento web full-stack  na resilia educação, e me aprofundando em  front-end pela Alura .
+- 🌱 A pouco tempo concluí  um Bootcamp de desenvolvimento web full-stack  na resilia educação, e agora sigo estudando  pela Alura e Udemy e desenvolvendo projetos. 
 
   
 <br>
