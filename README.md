@@ -6,8 +6,8 @@
 - 🔭 Estou aberto a  oportunidades para atuar como desenvolvedor web Jr, ou estagiário (Full-stack, front end, back end)
    meu foco é aprender coisas novas  e me especializar cada vez mais na área.
    
-<h4>Pra me conhecer melhor</h4>
-- 🌱Cursei 5 periodos de engenharia da computação mas acabei trancando e comecei a buscar novos meios de me capacitar, e surgiu uma oportunidade de fazer um bootcamp de desenvolvendor Web Full-stack, como meu foco é o mercado eu ingressei, lá aprendemos programação com a "mão na massa", resolvendo desafios e desenvolvendo projetos com (HTML, CSS, JS, BOOTSTRAP, React.js, MySQL, Node.js, Scrum, Kanban).
+<h4>🌱Pra me conhecer melhor</h4>
+- Cursei 5 periodos de engenharia da computação mas acabei trancando e comecei a buscar novos meios de me capacitar, e surgiu uma oportunidade de fazer um bootcamp de desenvolvendor Web Full-stack, como meu foco é o mercado eu ingressei, lá aprendemos programação com a "mão na massa", resolvendo desafios e desenvolvendo projetos com (HTML, CSS, JS, BOOTSTRAP, React.js, MySQL, Node.js, Scrum, Kanban).
 -  finalizei o bootcamp em janeiro/2022 e também comecei no curso de análise e desenvolvimento de sistemas, para ter acesso a outras oportunidades... e continuo estudando pela Udemy, Alura, e desenvolvendo projetos, também participo de algumas comunidades (Resilia, alura, etc).
 Nessa Jornada o que eu mais aprendi foi a ser resiliente, lidar com situações dificeis e sob pressão sem perder a calma, e a segunda foi ser autoditada, conseguir "se virar" pra resolver um problema, buscar e nas comunidades, foruns... 
 
