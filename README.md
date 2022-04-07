@@ -3,7 +3,7 @@
 
 
 
-- 🔭 Estou aberto a  oportunidades para atuar como desenvolvedor web Jr, ou estagiário (Full-stack, front end, back end)
+- 🔭 Estou aberto a  oportunidades para atuar como desenvolvedor web Jr, ou estagiário e ✨freelancer (Full-stack, front end, back end)
    meu foco é aprender coisas novas  e me especializar cada vez mais na área.
    
 <h4>🌱Pra me conhecer melhor</h4>
